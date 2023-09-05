@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/billetes.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 100vh;
+}
+
+button{
+    color: aliceblue;
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+}
+
